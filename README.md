@@ -1,4 +1,4 @@
-# Convex Hull 3D (Incremental algorithum) ![java:v8](https://img.shields.io/badge/Java-v8-brightgreen.svg)
+# File Server ![java:v8](https://img.shields.io/badge/Java-v8-brightgreen.svg)
 
 This contains a java implementation of a simple File Server and Client model in which the server can also act as a proxy. Socket library has been used to build the application.
 
